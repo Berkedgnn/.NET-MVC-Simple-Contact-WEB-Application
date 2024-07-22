@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\berke\\source\\repos\\MvcRehber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7826E4E-7A8F-4951-BB64-9D636FC166EA}|MvcRehber\\MvcRehber.csproj|c:\\users\\berke\\source\\repos\\mvcrehber\\mvcrehber\\views\\tbluserinfo\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7826E4E-7A8F-4951-BB64-9D636FC166EA}|MvcRehber\\MvcRehber.csproj|solutionrelative:mvcrehber\\views\\tbluserinfo\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7826E4E-7A8F-4951-BB64-9D636FC166EA}|MvcRehber\\MvcRehber.csproj|C:\\Users\\berke\\source\\repos\\MvcRehber\\mvcrehber\\controllers\\tbluserinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7826E4E-7A8F-4951-BB64-9D636FC166EA}|MvcRehber\\MvcRehber.csproj|solutionrelative:mvcrehber\\controllers\\tbluserinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7826E4E-7A8F-4951-BB64-9D636FC166EA}|MvcRehber\\MvcRehber.csproj|C:\\Users\\berke\\source\\repos\\MvcRehber\\mvcrehber\\controllers\\kisicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7826E4E-7A8F-4951-BB64-9D636FC166EA}|MvcRehber\\MvcRehber.csproj|solutionrelative:mvcrehber\\controllers\\kisicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7826E4E-7A8F-4951-BB64-9D636FC166EA}|MvcRehber\\MvcRehber.csproj|C:\\Users\\berke\\source\\repos\\MvcRehber\\mvcrehber\\views\\kisi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7826E4E-7A8F-4951-BB64-9D636FC166EA}|MvcRehber\\MvcRehber.csproj|solutionrelative:mvcrehber\\views\\kisi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7826E4E-7A8F-4951-BB64-9D636FC166EA}|MvcRehber\\MvcRehber.csproj|C:\\Users\\berke\\source\\repos\\MvcRehber\\mvcrehber\\views\\kisi\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7826E4E-7A8F-4951-BB64-9D636FC166EA}|MvcRehber\\MvcRehber.csproj|solutionrelative:mvcrehber\\views\\kisi\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7826E4E-7A8F-4951-BB64-9D636FC166EA}|MvcRehber\\MvcRehber.csproj|C:\\Users\\berke\\source\\repos\\MvcRehber\\mvcrehber\\views\\kisi\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7826E4E-7A8F-4951-BB64-9D636FC166EA}|MvcRehber\\MvcRehber.csproj|solutionrelative:mvcrehber\\views\\kisi\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7826E4E-7A8F-4951-BB64-9D636FC166EA}|MvcRehber\\MvcRehber.csproj|C:\\Users\\berke\\source\\repos\\MvcRehber\\mvcrehber\\models\\entities\\tbluserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7826E4E-7A8F-4951-BB64-9D636FC166EA}|MvcRehber\\MvcRehber.csproj|solutionrelative:mvcrehber\\models\\entities\\tbluserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7826E4E-7A8F-4951-BB64-9D636FC166EA}|MvcRehber\\MvcRehber.csproj|C:\\Users\\berke\\source\\repos\\MvcRehber\\mvcrehber\\models\\context\\mvcrehbercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7826E4E-7A8F-4951-BB64-9D636FC166EA}|MvcRehber\\MvcRehber.csproj|solutionrelative:mvcrehber\\models\\context\\mvcrehbercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Signup.cshtml",
+              "DocumentMoniker": "C:\\Users\\berke\\source\\repos\\MvcRehber\\MvcRehber\\Views\\TBLUserInfo\\Signup.cshtml",
+              "RelativeDocumentMoniker": "MvcRehber\\Views\\TBLUserInfo\\Signup.cshtml",
+              "ToolTip": "C:\\Users\\berke\\source\\repos\\MvcRehber\\MvcRehber\\Views\\TBLUserInfo\\Signup.cshtml",
+              "RelativeToolTip": "MvcRehber\\Views\\TBLUserInfo\\Signup.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T12:19:26.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KisiController.cs",
+              "DocumentMoniker": "C:\\Users\\berke\\source\\repos\\MvcRehber\\MvcRehber\\Controllers\\KisiController.cs",
+              "RelativeDocumentMoniker": "MvcRehber\\Controllers\\KisiController.cs",
+              "ToolTip": "C:\\Users\\berke\\source\\repos\\MvcRehber\\MvcRehber\\Controllers\\KisiController.cs",
+              "RelativeToolTip": "MvcRehber\\Controllers\\KisiController.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAA9wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T12:18:40.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Guncelle.cshtml",
+              "DocumentMoniker": "C:\\Users\\berke\\source\\repos\\MvcRehber\\MvcRehber\\Views\\Kisi\\Guncelle.cshtml",
+              "RelativeDocumentMoniker": "MvcRehber\\Views\\Kisi\\Guncelle.cshtml",
+              "ToolTip": "C:\\Users\\berke\\source\\repos\\MvcRehber\\MvcRehber\\Views\\Kisi\\Guncelle.cshtml",
+              "RelativeToolTip": "MvcRehber\\Views\\Kisi\\Guncelle.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T12:18:11.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MvcRehberContext.cs",
+              "DocumentMoniker": "C:\\Users\\berke\\source\\repos\\MvcRehber\\MvcRehber\\Models\\Context\\MvcRehberContext.cs",
+              "RelativeDocumentMoniker": "MvcRehber\\Models\\Context\\MvcRehberContext.cs",
+              "ToolTip": "C:\\Users\\berke\\source\\repos\\MvcRehber\\MvcRehber\\Models\\Context\\MvcRehberContext.cs",
+              "RelativeToolTip": "MvcRehber\\Models\\Context\\MvcRehberContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:06:29.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\berke\\source\\repos\\MvcRehber\\MvcRehber\\Views\\Kisi\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcRehber\\Views\\Kisi\\Index.cshtml",
+              "ToolTip": "C:\\Users\\berke\\source\\repos\\MvcRehber\\MvcRehber\\Views\\Kisi\\Index.cshtml",
+              "RelativeToolTip": "MvcRehber\\Views\\Kisi\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T08:04:13.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ekle.cshtml",
+              "DocumentMoniker": "C:\\Users\\berke\\source\\repos\\MvcRehber\\MvcRehber\\Views\\Kisi\\Ekle.cshtml",
+              "RelativeDocumentMoniker": "MvcRehber\\Views\\Kisi\\Ekle.cshtml",
+              "ToolTip": "C:\\Users\\berke\\source\\repos\\MvcRehber\\MvcRehber\\Views\\Kisi\\Ekle.cshtml",
+              "RelativeToolTip": "MvcRehber\\Views\\Kisi\\Ekle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T08:04:12.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TBLUserInfo.cs",
+              "DocumentMoniker": "C:\\Users\\berke\\source\\repos\\MvcRehber\\MvcRehber\\Models\\Entities\\TBLUserInfo.cs",
+              "RelativeDocumentMoniker": "MvcRehber\\Models\\Entities\\TBLUserInfo.cs",
+              "ToolTip": "C:\\Users\\berke\\source\\repos\\MvcRehber\\MvcRehber\\Models\\Entities\\TBLUserInfo.cs",
+              "RelativeToolTip": "MvcRehber\\Models\\Entities\\TBLUserInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T07:19:17.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TBLUserInfoController.cs",
+              "DocumentMoniker": "C:\\Users\\berke\\source\\repos\\MvcRehber\\MvcRehber\\Controllers\\TBLUserInfoController.cs",
+              "RelativeDocumentMoniker": "MvcRehber\\Controllers\\TBLUserInfoController.cs",
+              "ToolTip": "C:\\Users\\berke\\source\\repos\\MvcRehber\\MvcRehber\\Controllers\\TBLUserInfoController.cs",
+              "RelativeToolTip": "MvcRehber\\Controllers\\TBLUserInfoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T07:17:40.926Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

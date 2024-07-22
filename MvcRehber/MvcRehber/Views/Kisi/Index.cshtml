@@ -1,0 +1,52 @@
+﻿
+@model MvcRehber.Models.KisiModel.KisiIndexViewModel
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Kayıtlı Kişiler</h2>
+<br />
+@Html.ActionLink("Yeni Kişi", "Ekle", null, new { @class = "btn btn-primary" })
+<br />
+<br />
+
+<table class="table">
+    <tr>
+        <th>İsim</th>
+        <th>Soyisim</th>
+        <th>Telefon (Ev)</th>
+        <th>Telefon (Kisisel)</th>
+        <th>Telefon (İs)</th>
+        <th>E-mail Adresi</th>
+        <th>Adres</th>
+        <th>Şehir</th>
+        <th>İşlemler</th>
+        <th> </th>
+    </tr>
+
+    @foreach (var kisi in Model.Kisiler)
+    {
+        <tr>
+            @*table dataları ekleriz*@
+            <td>@kisi.Ad</td>
+            <td>@kisi.Soyad</td>
+            <td>@kisi.EvTelefon</td>
+            <td>@kisi.CepTelefon</td>
+            <td>@kisi.IsTelefon</td>
+            <td>@kisi.EmailAdres</td>
+            <td>@kisi.Adres</td>
+            <td>@kisi.Sehir.SehirAdi</td>
+            <td>
+                @*<a href="/Kisi/Guncelle/@kisi.Id">Güncelle</a>*@
+                @Html.ActionLink("Güncelle", "Guncelle", new { id = kisi.Id }, new { @class = "btn btn-secondary", style = "font-size: 9px" })
+                @Html.ActionLink("Sil", "Sil", new { id = kisi.Id }, new { onclick = "return confirm('Kişi kalıcı olarak silinecek. Onaylıyor musunuz?')", @class = "btn btn-danger", style = "font-size: 9px" })
+            </td>
+            <td>
+                @Html.ActionLink("E-posta gönder", "MailGonder", new { id = kisi.Id }, new { @class = "btn btn-primary", style = "font-size: 9px" })
+            </td>
+        </tr>
+    }
+    @*kayıtların için burada tr ekleriz ama otomatik olması için bunu model tanımlayarak yapacağız*@
+</table>
